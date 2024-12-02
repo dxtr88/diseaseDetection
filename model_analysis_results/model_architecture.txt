@@ -1,0 +1,7 @@
+Model Architecture Analysis
+===========================
+Model Type: MobileNetV2
+Total Parameters: 2,276,393
+Trainable Parameters: 2,276,393
+Number of Classes: 41
+Device: cuda:0
